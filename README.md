@@ -1,2 +1,2 @@
 # python-SOC-practices
-Aquest repositori conté pràctiques realitzades durant el curs de Programació a Python del SOC
+Este repositorio contiene prácticas realizadas durante el curso de Programación en Python de CIFO La Violeta (junio - julio 2025)
